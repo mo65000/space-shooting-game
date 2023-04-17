@@ -1,0 +1,35 @@
+alaa(
+ Creating Game Window
+Changing Logo And Title
+Adding Background Image
+Adding Spaceship
+
+)
+------------------------------------------------------------
+khaled(
+Movement of Spaceship
+Adding Alien (Enemy)
+Movement of Alien
+
+
+)
+-------------------------------------------------------------
+salma(
+Creating Bullet For Shooting Aliens
+ Collision Between Bullet & Alien
+ Adding Score
+ 
+-------------------------------------------------------------
+abdullah
+( 
+Adding Game Over Text and its Functionality
+Creating Multiple Aliens
+Adding Background Music, Bullet Sound and Explosion Sound
+ending )
+
+
+
+
+
+
+
